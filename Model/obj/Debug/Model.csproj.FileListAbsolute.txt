@@ -1,0 +1,5 @@
+C:\Users\VK3001(H)\Desktop\ThreeLayer\Model\bin\Debug\Model.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\Model\bin\Debug\Model.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\ThreeLayer\Model\obj\Debug\Model.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\Model\obj\Debug\Model.pdb

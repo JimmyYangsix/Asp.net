@@ -1,0 +1,9 @@
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\bin\Debug\BLL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\bin\Debug\BLL.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\bin\Debug\DAL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\bin\Debug\Model.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\bin\Debug\DAL.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\bin\Debug\Model.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\obj\Debug\BLL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\BLL\obj\Debug\BLL.pdb

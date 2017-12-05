@@ -1,0 +1,11 @@
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\UI.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\UI.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\BLL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\Model.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\DAL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\BLL.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\Model.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\bin\DAL.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\obj\Debug\UI.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\UI\obj\Debug\UI.pdb

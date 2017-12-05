@@ -1,0 +1,7 @@
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\bin\Debug\DAL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\bin\Debug\DAL.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\bin\Debug\Model.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\bin\Debug\Model.pdb
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\obj\Debug\DAL.dll
+C:\Users\VK3001(H)\Desktop\ThreeLayer\DAL\obj\Debug\DAL.pdb
