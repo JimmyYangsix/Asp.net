@@ -25,7 +25,7 @@ public class ShowInfo : IHttpHandler {
             StringBuilder sb = new StringBuilder();
             foreach (DataRow dr in dt.Rows)
             {
-                sb.AppendFormat("<tr class=" + className[i % 5] + "><td>{0}</td><td>{1}</td><td>{2}</td><td>{3}</td><td>{4}</td><td>{5}</td>", dr["id"].ToString(), dr["username"].ToString(), dr["userid"].ToString(), dr["userpwd"].ToString(), dr["userplace"].ToString(), dr["userclass"].ToString());
+                sb.AppendFormat("<tr class=" + className[i % 5] + "><td>{0}</td><td>{1}</td><td>{2}</td><td>{3}</td><td>{4}</td><td>{5}</td><td><a href='showDetail.ashx?id={0}'>详细信息</a></td>", dr["id"].ToString(), dr["username"].ToString(), dr["userid"].ToString(), dr["userpwd"].ToString(), dr["userplace"].ToString(), dr["userclass"].ToString());
                 i++;
             }
             string filepath = context.Request.MapPath("index.html");
