@@ -13,5 +13,17 @@ namespace BLL
         {
             return userinfodal.GetList();
         }
+        public bool DeleteUserInfo(int id)
+        {
+            return userinfodal.DeleteUserInfo(id) > 0;
+        }
+        public bool  AddUser(string[] Allinfo)
+        {
+            return userinfodal.AddUser(Allinfo) > 0;
+        }
+        public bool UpdateInfo(string[] Allinfo)
+        {
+            return userinfodal.UpdateInfo(Allinfo) > 0;
+        }
     }
 }
